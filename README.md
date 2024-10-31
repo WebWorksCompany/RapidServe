@@ -20,8 +20,4 @@ By using WebWorks RapidServe, users agree to adhere to the [Terms of Service](ht
 
 ---
 
-<<<<<<< HEAD
 Thank you for your interest in WebWorks RapidServe!
-=======
-Thank you for your interest in WebWorks RapidServe!
->>>>>>> e5950ea (Initial Code Commit)
