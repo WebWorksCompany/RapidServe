@@ -1,4 +1,4 @@
-# WebWorks RapidServe
+# [WebWorks RapidServe](https://cdn.webworkshub.online/)
 
 WebWorks RapidServe is a public content delivery network (CDN) designed to provide fast and reliable digital content distribution services. This CDN allows for efficient delivery of web assets while ensuring that users can access authorized content seamlessly. Resources will mainly include WebWorks only services
 
